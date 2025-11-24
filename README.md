@@ -12,5 +12,5 @@ Using techniques such as webscraping (BeautifulSoup) and API's (Openweather) to 
 3. Use the model to predict on usage and optimal locations.
 
 
-Project still being updated and written. Will update readme as project progesses. 
+See Coding documents for more information
 
