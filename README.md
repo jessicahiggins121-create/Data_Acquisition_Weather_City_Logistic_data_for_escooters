@@ -12,5 +12,8 @@ Using techniques such as webscraping (BeautifulSoup) and API's (Openweather) to 
 3. Use the model to predict on usage and optimal locations.
 
 
+Coding was done in Jupyter Labs and storage with MySQL 
+APIs Used: OpenWeather, AeroData via rapidapi.com
+
 See Coding documents for more information
 
